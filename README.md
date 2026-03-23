@@ -14,6 +14,8 @@
 ![Issues](https://img.shields.io/github/issues/OLOMIK/GAMP?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/OLOMIK/GAMP?style=flat-square)
 </div>
+
+
 ### The Modern XAMPP Alternative for macOS (2026 Edition)
 
 GAMP to lekka, natywna i piekielnie szybka konsola do zarządzania lokalnym środowiskiem deweloperskim (Apache, MySQL, PHP) na systemach macOS. Zapomnij o ciężkich, przestarzałych instalatorach. GAMP wykorzystuje potęgę Homebrew, aby dostarczyć Ci środowisko "production-ready" w kilka minut.
