@@ -25,7 +25,7 @@ GAMP to lekka, natywna i piekielnie szybka konsola do zarządzania lokalnym śro
 - **Magic Domains (VHosts):** Twórz domeny typu `moj-projekt.test` jednym kliknięciem. GAMP automatycznie konfiguruje Apache i Twój systemowy plik hosts.
 - **Engine Core (PHP Switcher):** Przełączaj się między wersjami PHP (8.2, 8.3, 8.4) w locie, bez dotykania terminala.
 - **XAMPP Experience:** Domyślnie skonfigurowany użytkownik `root` bez hasła oraz autologowanie do phpMyAdmin.
-- **Clean UI:** Natywny interfejs SwiftUI zaprojektowany pod macOS Monterey+, z obsługą Glassmorfizmu i trybu Dark Mode.
+- **Clean UI:** Natywny interfejs SwiftUI zaprojektowany pod macOS Monterey+, z obsługą Liquid Glass.
 - **Safety First:** Wbudowany "Nuklearny Przycisk" do całkowitej deinstalacji i czyszczenia systemu ze wszystkich śmieci.
 
 ## 🛠️ Instalacja
