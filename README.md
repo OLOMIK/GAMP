@@ -3,7 +3,7 @@
 
 <img src="https://github.com/OLOMIK/GAMP/blob/main/GAMP/Assets.xcassets/AppIcon.appiconset/icon_128x128.png" width="128" height="128" />
 
-# 🚀 GAMP 
+# 🚀 GAMP 
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-macOS-lightgrey.svg?style=flat-square)
@@ -18,30 +18,30 @@
 
 ### The Modern XAMPP Alternative for macOS (2026 Edition)
 
-GAMP to lekka, natywna i piekielnie szybka konsola do zarządzania lokalnym środowiskiem deweloperskim (Apache, MySQL, PHP) na systemach macOS. Zapomnij o ciężkich, przestarzałych instalatorach. GAMP wykorzystuje potęgę Homebrew, aby dostarczyć Ci środowisko "production-ready" w kilka minut.
+GAMP is a lightweight, native, and blazing-fast console for managing your local development environment (Apache, MySQL, PHP) on macOS. Forget heavy, outdated installers. GAMP harnesses the power of Homebrew to deliver a "production-ready" environment in minutes.
 
-## ✨ Dlaczego GAMP?
+## ✨ Why GAMP?
 
-- **Magic Domains (VHosts):** Twórz domeny typu `moj-projekt.test` jednym kliknięciem. GAMP automatycznie konfiguruje Apache i Twój systemowy plik hosts.
-- **Engine Core (PHP Switcher):** Przełączaj się między wersjami PHP (8.2, 8.3, 8.4) w locie, bez dotykania terminala.
-- **XAMPP Experience:** Domyślnie skonfigurowany użytkownik `root` bez hasła oraz autologowanie do phpMyAdmin.
-- **Clean UI:** Natywny interfejs SwiftUI zaprojektowany pod macOS Monterey+, z obsługą Liquid Glass.
-- **Safety First:** Wbudowany "Nuklearny Przycisk" do całkowitej deinstalacji i czyszczenia systemu ze wszystkich śmieci.
+- **Magic Domains (VHosts):** Create `your-project.test` domains with a single click. GAMP automatically configures Apache and your system hosts file.
+- **Engine Core (PHP Switcher):** Switch between PHP versions (8.2, 8.3, 8.4) on the fly, without touching the terminal.
+- **XAMPP Experience:** Default `root` user with no password and auto-login to phpMyAdmin.
+- **Clean UI:** Native SwiftUI interface designed for macOS Monterey+, with Liquid Glass support.
+- **Safety First:** Built-in "Nuclear Button" for total uninstallation and cleaning the system of all clutter.
 
-## 🛠️ Instalacja
+## 🛠️ Installation
 
-1. Pobierz plik `GAMP_Setup.dmg`.
-2. Przeciągnij GAMP do folderu `Applications`.
-3. Przy pierwszym uruchomieniu aplikacja sprawdzi obecność Homebrew i zaproponuje automatyczną instalację całego stacku (Apache/MySQL/PHP).
+1. Download the `GAMP_Setup.dmg` file.
+2. Drag GAMP to your `Applications` folder.
+3. On the first run, the app will check for Homebrew and suggest an automatic installation of the entire stack (Apache/MySQL/PHP).
 
-> **Ważne (Unidentified Developer):** Jeśli macOS zablokuje uruchomienie, kliknij ikonę prawym przyciskiem myszy i wybierz "Otwórz".
+> **Important (Unidentified Developer):** If macOS blocks the launch, right-click the icon and select "Open".
 
-## 📂 Struktura folderów
+## 📂 Folder Structure
 
-- **Htdocs:** `/opt/homebrew/var/www` (lub `/usr/local/var/www` na Intelu)
+- **Htdocs:** `/opt/homebrew/var/www` (or `/usr/local/var/www` on Intel)
 - **Config:** `/opt/homebrew/etc/httpd/httpd.conf`
-- **phpMyAdmin:** Dostępny pod adresem `http://localhost:8080/phpmyadmin` lub `pma.test:8080`.
+- **phpMyAdmin:** Available at `http://localhost:8080/phpmyadmin` or `pma.test:8080`.
 
-## 🤝 Autor
-Stworzone przez **Aleksander Marciniak** [klik](https://github.com/OLOMIK/)<br>
-Built for Developers, by Developer.
+## 🤝 Author
+Created by **Aleksander Marciniak** [click](https://github.com/OLOMIK/)<br>
+Built for Developers, by a Developer.
